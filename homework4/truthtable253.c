@@ -1,15 +1,8 @@
 /*
- *truthtable.c
- *Douglas L. Jones
+ * @author Noah Prince, nprince2
  *University of Illinois at Urbana-Champaign
- *September 19, 2012
- *
- *(c) 2012 by Douglas L. Jones
- *This work is made available according to the Creative Commons "Attribution" license
- *http://creativecommons.org/licenses/by/3.0/
- *
- *  truthtable.c: Computes and prints the truthtable for a 3-input logic function
  */
+
 #include <stdio.h>
 
 /* Define constants */
